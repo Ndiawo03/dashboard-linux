@@ -20,6 +20,7 @@ Ce projet est un script Bash (`mon_dashboard.sh`) qui affiche les informations s
 ```bash
 chmod +x mon_dashboard.sh
 ./mon_dashboard.sh
+
 ## Technologies :
 
 -Bash
