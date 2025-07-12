@@ -15,12 +15,6 @@ Ce projet est un script Bash (`mon_dashboard.sh`) qui affiche les informations s
 
 - `mon_dashboard.sh` : script bash exécutable
 
-## Utilisation :
-
-```bash
-chmod +x mon_dashboard.sh
-./mon_dashboard.sh
-
 ## Technologies :
 
 -Bash
@@ -28,3 +22,11 @@ chmod +x mon_dashboard.sh
 -Commandes Linux
 
 -journalctl, tee, tail
+
+
+## Utilisation :
+
+```bash
+chmod +x mon_dashboard.sh
+./mon_dashboard.sh
+
